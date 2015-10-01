@@ -1,39 +1,18 @@
-! Color-scheme : Dark times - an 8-bit mix of Flat Studio dark and hybrid with some personal tweaks.
-! Author       : stark <stark@openmailbox.org>
-
-*background: #2C2E2F
-*foreground: #bdbdbd
-
-! black
-*color0: #2C2E2F
-*color8: #383A3B
-
-! red
-*color1: #A54242
-*color9: #A54242
-
-! green
-*color2: #90EE90
-*color10: #90EE90
-
-! yellow
-*color3: #F0C674
-*color11: #F0C674
-
-! blue
-*color4: #4d679a
-*color12: #4d679a
-
-! magenta
-*color5: #4a90f9
-*color13: #4a90f9
-
-! cyan
-*color6: #5E8D87
-*color14: #5E8D87
-
-! white
-*color7: #C0C0C0
-*color15: #C0C0C0
-
-! vim: set ft=xdefaults
+*.background: #2c2e2f
+*.foreground: #bdbdbd
+*.color0: #2c2e2f
+*.color1: #a54242
+*.color2: #90ee90
+*.color3: #f0c674
+*.color4: #4d679a
+*.color5: #4a90f9
+*.color6: #5e8d87
+*.color7: #c0c0c0
+*.color8: #383a3b
+*.color9: #a54242
+*.color10: #90ee90
+*.color11: #f0c674
+*.color12: #4d679a
+*.color13: #4a90f9
+*.color14: #5e8d87
+*.color15: #c0c0c0

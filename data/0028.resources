@@ -1,24 +1,18 @@
-! dkeg 2013,2014 !
-  
-!!!! catchmeifyoucan !!!!
-
-*background:#170f0d
-*foreground:#f9f9f9
-!*foreground:#746c48
-
-*color0: #130F0C
-*color1: #604C38
-*color2: #8D7F85
-*color3: #907256
-*color4: #AA8D70
-*color5: #B9A38D
-*color6: #C4BFBF
-*color7: #C4AE99
-*color8: #C69F77
-*color9: #CAB9A8
-*color10: #D5C6B8
-*color11: #DCD1C7
-*color12: #E0E0E2
-*color13: #E4DAD2
-*color14: #EAE3DC
-*color15: #F6F2F0
+*.background: #170f0d
+*.foreground: #746c48
+*.color0: #130f0c
+*.color1: #604c38
+*.color2: #8d7f85
+*.color3: #907256
+*.color4: #aa8d70
+*.color5: #b9a38d
+*.color6: #c4bfbf
+*.color7: #c4ae99
+*.color8: #c69f77
+*.color9: #cab9a8
+*.color10: #d5c6b8
+*.color11: #dcd1c7
+*.color12: #e0e0e2
+*.color13: #e4dad2
+*.color14: #eae3dc
+*.color15: #f6f2f0

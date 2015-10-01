@@ -1,23 +1,18 @@
-! dkeg 2013,2014 !
-  
-!!!! canvasedpastel !!!!
-
-*background: #170F0D
-*foreground: #746C48
-
-*color0: #26251C
-*color1: #323027
-*color2: #3D4339
-*color3: #443B2C
-*color4: #534D35
-*color5: #646756
-*color6: #7B8574
-*color7: #837B61
-*color8: #999F91
-*color9: #9B9773
-*color10: #B2B08C
-*color11: #C4BB8C
-*color12: #C4B67A
-*color13: #CFC995
-*color14: #D3D4B6
-*color15: #D6D3AC
+*.background: #170f0d
+*.foreground: #746c48
+*.color0: #26251c
+*.color1: #323027
+*.color2: #3d4339
+*.color3: #443b2c
+*.color4: #534d35
+*.color5: #646756
+*.color6: #7b8574
+*.color7: #837b61
+*.color8: #999f91
+*.color9: #9b9773
+*.color10: #b2b08c
+*.color11: #c4bb8c
+*.color12: #c4b67a
+*.color13: #cfc995
+*.color14: #d3d4b6
+*.color15: #d6d3ac

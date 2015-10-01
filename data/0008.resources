@@ -1,25 +1,18 @@
-*background: #151B1A
-*foreground: #8FA388
-
-! Alternate foreground
-!*foreground: #7E9982
-
-*cursorColor: #9E6438
-
-*color0: #2E2B38
-*color1: #984E66
-*color2: #7A8C54
-*color3: #9E6438
-*color4: #395667
-*color5: #9D916B
-*color6: #536556
-*color7: #828181
-*color8: #474159
-*color9: #A86D56
-*color10: #9FB274
-*color11: #B29F5E
-*color12: #507A91
-*color13: #B89855
-*color14: #7E9982
-*color15: #BDBDA4
-
+*.background: #151b1a
+*.foreground: #7e9982
+*.color0: #2e2b38
+*.color1: #984e66
+*.color2: #7a8c54
+*.color3: #9e6438
+*.color4: #395667
+*.color5: #9d916b
+*.color6: #536556
+*.color7: #828181
+*.color8: #474159
+*.color9: #a86d56
+*.color10: #9fb274
+*.color11: #b29f5e
+*.color12: #507a91
+*.color13: #b89855
+*.color14: #7e9982
+*.color15: #bdbda4

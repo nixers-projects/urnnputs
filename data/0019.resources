@@ -1,34 +1,18 @@
-URxvt*font:             -*-proggyoptis-medium-*-*-*-*-*-*-*-*-*-iso8859-1
-URxvt*boldFont:         -*-proggyoptis-medium-*-*-*-*-*-*-*-*-*-iso8859-1
-
-
-URxvt*background:       #170F0D
-URxvt*foreground:       #746C48
-URxvt*cursorColor:      #6666CC
-URxvt*colorBD:          #C8B984
-
-
-URxvt*color0:           #392925
-URxvt*color8:           #544B2E
-
-URxvt*color1:           #98724C
-URxvt*color9:           #AF652F
-
-URxvt*color2:           #908F32
-URxvt*color10:          #C3C13D
-
-URxvt*color3:           #AA964C
-URxvt*color11:          #C8B55B
-
-URxvt*color4:           #7B854E
-URxvt*color12:          #70A16C
-
-URxvt*color5:           #6B5644
-URxvt*color13:          #98724C
-
-URxvt*color6:           #5C5142
-URxvt*color14:          #778725
-
-URxvt*color7:           #C8B55B
-URxvt*color15:          #E4DC8C
-
+*.background: #170f0d
+*.foreground: #746c48
+*.color0: #392925
+*.color1: #98724c
+*.color2: #908f32
+*.color3: #aa964c
+*.color4: #7b854e
+*.color5: #6b5644
+*.color6: #5c5142
+*.color7: #c8b55b
+*.color8: #544b2e
+*.color9: #af652f
+*.color10: #c3c13d
+*.color11: #c8b55b
+*.color12: #70a16c
+*.color13: #98724c
+*.color14: #778725
+*.color15: #e4dc8c
