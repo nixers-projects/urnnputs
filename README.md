@@ -1,5 +1,5 @@
 ## urnnputs
-Inputs for [urnn](https://github.com/neeasade/urnn).
+Inputs for [urnn](https://github.com/nixers-projects/urnn).
 
 urnn only needs data about the image and color pair, and one that is extracted there is no need to commit large images like wallpapers to its repo. But it can be nice to have a visual reference to those. The plan is eventually for this to have a github pages generated to easily browse them.
 
